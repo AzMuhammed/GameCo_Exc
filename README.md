@@ -7,6 +7,7 @@
 
 # Objective
 
+
 GameCo`s executives assume that sales in geographic regions have remained the same over time.
 I conducted a descriptive sales analysis of the three geographic regions to confirm if this assumption is true.
 
